@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 2.7.3
+### Patch Changes
+
+
+- docs: update URLs for new svelte.dev site ([#12857](https://github.com/sveltejs/kit/pull/12857))
+
 ## 2.7.2
 ### Patch Changes
 
